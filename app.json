@@ -1,0 +1,14 @@
+{
+  "name": "test123123123git",
+  "description": "test123123123git opt_description",
+  "scripts": {
+    "postdeploy": "bin/setuptest123123123git",
+    "pr-predestroy": "bin/teardowntest123123123git"
+  },
+  "env": {
+    "t123g_key": "t123g_value"
+  },
+  "addons": [
+
+  ]
+}
